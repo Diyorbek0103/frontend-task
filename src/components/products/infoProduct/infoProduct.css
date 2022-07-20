@@ -1,0 +1,7 @@
+.infoProduct .card img {
+  width: 100%;
+  height: 300px;
+}
+.infoProduct{
+  min-height: 100vh;
+}

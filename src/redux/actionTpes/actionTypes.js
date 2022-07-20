@@ -1,0 +1,7 @@
+export const GET_PRODUCTS="GET_PRODUCTS";
+export const LOADING_TRUE= "LOADING_TRUE";
+export const LOADING_FALSE="LOADING_FALSE";
+export const GET_SINGLE_PRODUCT="GET_SINGLE_PRODUCT";
+export const GET_CATEGORY="GET_CATEGORY";
+export const GET_FILTER="GET_FILTER";
+export const SEARCH="SEARCH";

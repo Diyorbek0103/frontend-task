@@ -1,0 +1,20 @@
+.products .card {
+  height: 400px;
+  margin-bottom: 20px;
+}
+.products .card-body {
+  padding-bottom: 0;
+}
+.products .card img {
+  width: 100%;
+  height: 230px;
+}
+.products .card .card-body a {
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+.products .card .card-text {
+  height: 70px;
+  width: 100%;
+}
